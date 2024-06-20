@@ -120,23 +120,23 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto: 3tjsalswl3.naver.com"
+      url: "mailto: 3tjsalswl3.naver.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/happy-mj"
+      url: "https://github.com/happy-mj"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/heureux_mj"
+      url: "https://instagram.com/heureux_mj"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:"https://github.com/happy-mj"
+      url:"https://github.com/happy-mj"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:"https://instagram.com/heureux_mj"
+      url:"https://instagram.com/heureux_mj"
 
 
 # Reading Files
